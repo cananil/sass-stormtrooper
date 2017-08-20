@@ -1,0 +1,7 @@
+@mixin my-padding-mixin($some-number) {
+  padding: $some-number;
+}
+
+.my-div {
+  @include my-padding-mixin(10px);
+}
