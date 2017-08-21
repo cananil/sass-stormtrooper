@@ -14,4 +14,8 @@ nav a {
   padding: 6px 12px;
   text-decoration: none; }
 
+/* some mixin added to here */
+.my-div {
+  padding: 10px; }
+
 /*# sourceMappingURL=main.css.map */
